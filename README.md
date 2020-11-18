@@ -9,17 +9,15 @@ An application to query the Google Books API
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## INSTALLATION
 
-Follow the link here.
+Follow the link [here](https://evening-ravine-79529.herokuapp.com/).
 
 ## Usage
 
-Enter the name of the book you would like to search for, and click "Save" to save the book for future reference. Clicking "Saved" in the navigation bar will lead you to a page containing all saved books
+Enter the name of the book you would like to search for, and click "Save" to save the book for future reference. Clicking "Saved" in the navigation bar will lead you to a page containing all saved books. Clicking the "delete" button on any books will delete them from the database.
 
 ## License
 
@@ -39,4 +37,4 @@ none
 
 GitHub: https://github.com/artuis/
 
-Email: tommyan97@msn.ocm
+Email: tommyan97@msn.com
